@@ -1,0 +1,17 @@
+h1 {
+  color: #297ACC;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.button {
+  text-align: center;
+}
